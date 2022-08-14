@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo&family=Montserrat&display=swap");
+* {
+    font-family: "Cairo", sans-serif;
+}
+
+.animated {
+    transition: 0.5s all ease-in-out;
+}
+
+.add img {
+    position: absolute;
+    padding: 6px;
+    bottom: 0;
+    margin: 10% 1%;
+    border-radius: 8px;
+    border: 2px solid #cccccc52;
+}
+
+.pnaierCard {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+    opacity: 0.9;
+}
